@@ -7,7 +7,7 @@ psutil
 motor
 pymongo==4.3.3
 pyrogram==2.0.106
-py-tgcalls==0.9.7
+py-tgcalls==1.0.2
 python-dotenv==1.0.0
 tgcrypto==1.2.5
 git+https://github.com/alexmercerind/youtube-search-python
