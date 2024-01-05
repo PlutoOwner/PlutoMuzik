@@ -11,6 +11,6 @@ py-tgcalls==0.9.7
 python-dotenv==1.0.0
 tgcrypto==1.2.5
 git+https://github.com/alexmercerind/youtube-search-python
-git+https://github.com/PlutoOwner/pluton
+git+https://github.com/Amahocaam/Muzik
 git+https://github.com/MonsterBos/sello-
 git+https://github.com/Amahocaam/Hizk
